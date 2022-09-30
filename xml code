@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fresh Basket</string>
+ 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="itemName">Banana</string>
+    <string name="itemQuantity">35</string>
+    <string name="itemPrice">250Rs</string>
+    <string name="totalCost">20</string>
+    <string name="totalCostTitle">Total Cost</string>
+    <string name="title">Add Items to your cart</string>
+    <string name="etItem">Item</string>
+    <string name="etQuantity">Quantity</string>
+    <string name="etPrice">Price</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+     
+</resources>
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0AD042</color>
+    <color name="colorPrimaryDark">#03551A</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
