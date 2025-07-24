@@ -6,7 +6,7 @@
 	android:layout_height="250dp"
 	android:background="@drawable/rectangle">
 
-	<!-- To display title-->
+	
 	<TextView
 		android:id="@+id/tvTitle"
 		android:layout_width="wrap_content"
